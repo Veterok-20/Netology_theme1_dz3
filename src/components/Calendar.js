@@ -88,5 +88,5 @@ export default function Calendar(props) {
 }
 
 Calendar.propTypes={
-    props: PropTypes.object.isRequired,
+    date: PropTypes.object.isRequired,
 }
